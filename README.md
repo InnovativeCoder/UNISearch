@@ -8,6 +8,7 @@
 - have search queries
 - tailwindcss
 - GSAP
+- husky for precommit
 - marketing automation using mailchimp for login/signup
 - marketing analytics using hubspot free + yandex metrica + moat + clarity
 - build a blog template

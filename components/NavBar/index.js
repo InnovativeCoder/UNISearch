@@ -33,15 +33,15 @@ export default function NavBar() {
         <Navbar.Collapse isOpen={isOpen}>
             <Navbar.Nav>
             <Navbar.Item>
-                <Navbar.Link>Home</Navbar.Link>
+                <Navbar.Link>UniSearch</Navbar.Link>
             </Navbar.Item>
             </Navbar.Nav>
             <Navbar.Nav right>
             <Navbar.Item>
-                <Navbar.Link>Documents</Navbar.Link>
+                <Navbar.Link>Login</Navbar.Link>
             </Navbar.Item>
             <Navbar.Item>
-                <Navbar.Link>React</Navbar.Link>
+                <Navbar.Link>Register</Navbar.Link>
             </Navbar.Item>
             </Navbar.Nav>
         </Navbar.Collapse>
